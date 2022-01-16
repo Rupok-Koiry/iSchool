@@ -1,0 +1,29 @@
+@media screen and (max-width:992px){
+  
+}
+
+@media screen and (max-width:768px){
+  .responsive{
+    margin-bottom: 15px;
+  }
+  .bottom-banner{
+    margin-bottom: 0;
+  }
+  ul{
+    border-top:2px solid rgba(255,255,255,0.2) !important;
+    margin-top: 20px;
+  }
+  #navbarNav{
+    background-color: #7289da;
+    border-radius: 8px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  }
+}
+@media screen and (max-width:576px){
+  .responsive{
+    text-align: center; 
+   }
+   .responsive-course-madia{
+     margin-bottom: 30px;
+   }
+}
